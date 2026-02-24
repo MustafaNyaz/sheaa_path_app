@@ -1,0 +1,20 @@
+INSTRUCTIONS FOR CLOSED TESTING (20 TESTERS)
+
+1. **Create List:**
+   - Go to Play Console > Closed Testing > Alpha > Testers.
+   - Create an email list named "Friends".
+   - Add 20+ Gmail addresses (Family, Friends, Colleagues).
+
+2. **Send Link:**
+   - Copy the "Join on Android" or "Join on Web" link from the Testers tab.
+   - Send this link to your 20 testers via WhatsApp/Email.
+
+3. **Tester Action (CRITICAL):**
+   - Testers MUST click the link.
+   - Testers MUST click "Become a Tester".
+   - Testers MUST download the app from the Play Store.
+   - Testers MUST keep the app installed for 14 days.
+
+4. **Production:**
+   - After 14 days, the "Apply for Production" button will unlock.
+   - Click it to publish to the world.

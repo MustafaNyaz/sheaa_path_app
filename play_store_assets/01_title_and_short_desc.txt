@@ -1,0 +1,6 @@
+App Name (30 char limit):
+Qiyam Dawud - قيام داوود
+
+Short Description (80 char limit):
+Accurate Last Third of Night, Prayer Times, Qibla & Adhkar.
+حاسبة الثلث الأخير، مواقيت الصلاة، القبلة والأذكار.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966220959898",
+    "project_id": "dawud-app",
+    "storage_bucket": "dawud-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966220959898:android:b581bb1d22735bca00cf23",
+        "android_client_info": {
+          "package_name": "com.alsabiqun.al_sabiqun_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDVnEk8wcG_ueFuG2IH72wZ1UfYSdYc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

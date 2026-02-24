@@ -1,0 +1,26 @@
+**Privacy Policy for Qiyam Dawud**
+
+**Last updated:** January 28, 2026
+
+**1. Overview**
+"Qiyam Dawud" is an Islamic utility app developed by Mustafa Nyaz. We respect your privacy and are committed to protecting it. This app allows you to calculate prayer times, find the Qibla direction, and track religious habits.
+
+**2. Data Collection**
+We collect the minimum amount of data required to function:
+*   **Location Data (GPS):** Used solely to calculate Prayer Times and Qibla direction locally on your device. This data is **not** transmitted to our servers or shared with third parties.
+*   **User Account (Optional):** If you choose to sign in (via Google or Email), your basic profile information (Name, Email) is stored securely using Google Firebase Authentication to sync your "Chain of Light" (Habit Streak) across devices.
+
+**3. Permissions**
+*   **Location (Fine/Coarse):** Required for prayer calculations.
+*   **Notifications & Alarms:** Used to play Athan and send reminders.
+*   **Wake Lock/Ignore Battery Optimizations:** Required to ensure the Athan plays on time even if the app is closed.
+
+**4. Third-Party Services**
+*   **Google Firebase:** Used for Authentication and secure database storage.
+*   **Google Play Services:** Used for map and location handling.
+
+**5. Contact**
+If you have any questions, please contact the developer at: [Your Email Here]
+
+**6. Deletion**
+You can request full data deletion by contacting us or using the "Delete Account" option within the app settings (if available) or simply by deleting the app if you are a guest user.

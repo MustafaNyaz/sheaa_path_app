@@ -1,0 +1,71 @@
+Qiyam Dawud is a comprehensive Islamic utility app designed to help you revive the Sunnah of Qiyam al-Layl (The Night Prayer) with astronomical precision.
+
+🌟 MAIN FEATURES 🌟
+
+🌙 Precise Qiyam Calculator
+Calculate the exact "Last Third of the Night" based on your GPS location and local sunset/dawn times. Never miss the most blessed time for prayer again.
+
+🕌 5 Daily Prayer Times & Athan
+Accurate times for Fajr, Dhuhr, Asr, Maghrib, and Isha.
+- Supports major calculation methods (MWL, Umm Al-Qura, Karachi, Tehran, Najaf, etc.).
+- Individual Athan sound control for each prayer.
+- Background playback support (Wake Lock & Exact Alarm).
+
+🧭 Qibla Compass
+Integrated real-time compass to find the Kaaba direction instantly from anywhere in the world.
+
+📿 Tasbih & Adhkar
+- Digital Tasbih counter with vibration feedback.
+- Morning/Evening Adhkar and specific Wake-up supplications.
+
+📜 99 Names of Allah
+Beautiful grid display of Asmaul Husna with English translations.
+
+✨ Dawood Reminders (Psalms)
+Receive daily spiritual notifications featuring the supplications (Psalms) of Prophet Dawood (AS), focusing on love, gratitude, and protection.
+
+⚙️ Advanced Customization
+- Hijri Calendar integration.
+- Sunni & Shia calculation support (including Najaf 16°/14°).
+- Dark Mode optimized (Deep Blue & Gold theme).
+- Privacy-focused: No ads, no tracking.
+
+---
+
+عربي / Arabic Description:
+
+تطبيق "قيام داوود" هو رفيقك الأمثل لإحياء سنة قيام الليل والحفاظ على الصلوات بدقة عالية.
+
+🌟 الميزات الرئيسية 🌟
+
+🌙 حاسبة الثلث الأخير من الليل
+حساب دقيق فلكياً لوقت السحر والثلث الأخير بناءً على موقعك الجغرافي.
+
+🕌 مواقيت الصلاة والأذان
+مواقيت دقيقة للصلوات الخمس (الفجر، الظهر، العصر، المغرب، العشاء).
+- دعم لكافة المذاهب وطرق الحساب (أم القرى، رابطة العالم الإسلامي، طهران، النجف، وغيرها).
+- تحكم كامل في صوت الأذان لكل صلاة.
+- يعمل في الخلفية بدقة (يدعم أجهزة سامسونج وشاومي).
+
+🧭 اتجاه القبلة
+بوصلة مدمجة لتحديد اتجاه الكعبة المشرفة بدقة وسهولة.
+
+📿 المسبحة والأذكار
+- مسبحة إلكترونية مع اهتزاز تفاعلي.
+- أذكار الصباح والمساء وأدعية الاستيقاظ.
+
+📜 أسماء الله الحسنى
+عرض جميل لأسماء الله الحسنى مع معانيها.
+
+✨ مزامير وتذكيرات داوود
+إشعارات يومية بأدعية ومناجاة سيدنا داوود عليه السلام (طلب المحبة، الرزق، الحفظ من الشرور).
+
+⚙️ خصائص إضافية
+- تقويم هجري.
+- واجهة ليلية مريحة للعين (اللون الكحلي والذهبي).
+- خصوصية تامة: بدون إعلانات وبدون تتبع.
+
+---
+Dedication / إهداء:
+This app is a Sadaqah Jariyah (ongoing charity) for my late father, Ibrahim Nyaz Hassan. Please remember us in your prayers.
+هذا التطبيق صدقة جارية للمرحوم أبي إبراهيم نياز حسن، لا تنسونا من صالح دعائكم.
